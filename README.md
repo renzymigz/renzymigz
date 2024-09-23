@@ -1,4 +1,4 @@
-# ☀️ Renzy Migz
+# ☀️ renzymigz
 ![Header](./renzymigzBanner.png)
 **`Digital Artist (Developer/Creator)`**
 
@@ -9,7 +9,18 @@ Hey, I’m a digital artist aiming to become a professional front-end developer.
          <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/renzymigz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/renzymigz?tab=repositories&sort=stargazers">
          <img alt="Total Stars" title="Total Stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/renzymigz?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  
    </p>
+
+---
+### 🌐 Socials
+<a href="https://discord.com/users/695639700278476851/">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</a>
+
+<a href="https://x.com/noticevoid">
+  <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
 
 ---
 ### 🌐 Languages & Tools
