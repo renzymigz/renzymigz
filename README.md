@@ -1,1 +1,1 @@
-(https://leetcode.card.workers.dev/renzymigz?theme=dark&font=baloo&extension=null)
+https://leetcode.card.workers.dev/renzymigz?theme=dark&font=baloo&extension=null
